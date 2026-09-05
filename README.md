@@ -112,7 +112,7 @@ Plant Image<br>
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/Plant-Growth-Detection.git
+git clone https://github.com/induwaralakshan4/Plant-Height-Detection
 
 2. Navigate to the Project
 
