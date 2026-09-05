@@ -96,13 +96,13 @@ Depending on the image setup and reference information, the detected pixel measu
 
 Plant Image
      │
-     ├── Detect Plant
+     ├── Detect Plant <br>
      │
-     ├── Find Top Point
+     ├── Find Top Point <br>
      │
-     ├── Find Bottom / Reference Point
+     ├── Find Bottom / Reference Point <br>
      │
-     └── Calculate Height
+     └── Calculate Height <br>
 
 «Note: Accurate real-world height measurement depends on factors such as camera position, image scale, perspective, and the availability of a suitable reference or calibration method.»
 
