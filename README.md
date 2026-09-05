@@ -1,4 +1,4 @@
-🌱 Plant Growth & Automatic Height Detection using OpenCV
+### 🌱 Plant Growth & Automatic Height Detection using OpenCV
 
 «An OpenCV-based Computer Vision project for automatically detecting a plant, estimating its height, and monitoring its growth over time.»
 
