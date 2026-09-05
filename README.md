@@ -94,7 +94,7 @@ The system uses image processing techniques to identify the plant and determine 
 
 Depending on the image setup and reference information, the detected pixel measurements can be converted into an estimated physical height.
 
-Plant Image
+Plant Image<br>
      │
      ├── Detect Plant <br>
      │
